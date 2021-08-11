@@ -1,0 +1,20 @@
+.header{
+   margin: 2rem;
+}
+.card{
+   border-radius: 35px;
+   box-shadow: 3px 3px 10px rgb(0,0,0,0.3);
+   padding: 30px;
+}
+.card-title{
+   text-align: center;
+   font-size: 35px;
+   color: rgb(255, 184, 5);
+}
+.card-body{
+   border-radius: 20px;
+   text-align: center;
+}
+.B{
+   text-align: center;
+}
